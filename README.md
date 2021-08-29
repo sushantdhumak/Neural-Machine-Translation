@@ -12,5 +12,5 @@ We will do this using an attention model, one of the most sophisticated sequence
 
 ### Acknowledgements
 
-https://www.coursera.org/learn/convolutional-neural-networks <br>
+https://www.coursera.org/learn/nlp-sequence-models <br>
 https://www.deeplearning.ai/program/deep-learning-specialization/
